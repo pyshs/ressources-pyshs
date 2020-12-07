@@ -1,6 +1,6 @@
 # Ressources utiles à la programmation Python en SHS
 
-## En français
+## En français
 
 - Mentionnons d'abord le tutorial de la fondation Python : `https://docs.python.org/fr/3/tutorial/index.html`.
 - Ce manuel peut être complété par un manuel plus général : « Python 3 - les fondamentaux du langage » \cite{Chazallet2019}.
