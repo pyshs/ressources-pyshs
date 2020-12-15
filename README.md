@@ -17,3 +17,7 @@
 - Enfin, jetez un coup d'oeil à Apprendre à automatiser les trucs ennuyant avec Python : https://automatetheboringstuff.com/.
 
 - Vidéo sur Matplotlib :https://www.youtube.com/watch?v=IlKvEWXajJM&feature=youtu.be&ab_channel=EitanLees
+
+## Autre 
+
+- l'intérêt des logiciels open source en recherche https://www.youtube.com/watch?v=HCvV11JoNOE&feature=youtu.be&ab_channel=Lebiostatisticien
