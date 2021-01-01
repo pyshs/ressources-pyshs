@@ -22,3 +22,4 @@
 
 - l'intérêt des logiciels open source en recherche https://www.youtube.com/watch?v=HCvV11JoNOE&feature=youtu.be&ab_channel=Lebiostatisticien
 - les usages du Notebook sur Github https://blog.jetbrains.com/datalore/2020/12/17/we-downloaded-10-000-000-jupyter-notebooks-from-github-this-is-what-we-learned/
+- le scrapping avec Pythion https://www.scrapingbee.com/blog/crawling-python/
