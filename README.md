@@ -15,8 +15,8 @@
 - Une présentation plus avancée de la programmation Python pour la science des données et le script scientifique https://jakevdp.github.io/PythonDataScienceHandbook/.
 - Le Blog de Jake Van der Plas http://jakevdp.github.io/ est intéressant à regarder pour apprendre des tours de main, en particulier sur la customisation de légende.
 - Enfin, jetez un coup d'oeil à Apprendre à automatiser les trucs ennuyant avec Python : https://automatetheboringstuff.com/.
-
-- Vidéo sur Matplotlib :https://www.youtube.com/watch?v=IlKvEWXajJM&feature=youtu.be&ab_channel=EitanLees
+- Vidéo sur Matplotlib : https://www.youtube.com/watch?v=IlKvEWXajJM&feature=youtu.be&ab_channel=EitanLees
+- Chapitre sur l'analyse textuelle : https://www.oreilly.com/library/view/applied-text-analysis/9781491963036/ch04.html
 
 ## Autre 
 
