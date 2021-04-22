@@ -18,6 +18,7 @@
 - Vidéo sur Matplotlib : https://www.youtube.com/watch?v=IlKvEWXajJM&feature=youtu.be&ab_channel=EitanLees
 - Chapitre sur l'analyse textuelle : https://www.oreilly.com/library/view/applied-text-analysis/9781491963036/ch04.html
 - Différentes stratégies de scrapping : https://scrapingant.com/blog/scrape-dynamic-website-with-python
+- Une bibliothèque de codage quali : https://github.com/ccbogel/QualCoder
 
 ## Autre 
 
