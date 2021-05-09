@@ -6,6 +6,7 @@
 - Les cours de programmation d'Open Classrooms peuvent permettre de compléter les notions vues dans ce manuel avec une présentation plus formelle : https://openclassrooms.com/.
 - Vous trouverez de nombreux cours en ligne plus ou moins spécialisés. Le suivant est par exemple à destination de la biologie mais il permet de revenir sur le fonctionnement du Notebook Jupyter : https://python.sdv.univ-paris-diderot.fr/18_jupyter/.
 - Des articles en français à destination des historiens sont développés sur le site *Programming Historian* https://programminghistorian.org/fr/. Par exemple, un article propose de rentrer en profondeur dans la manipulation de chaînes de caractères.
+- Explication de la reconnaissance d'entités nommées et outils dans le cadre de la pseudonimisation : https://guides.etalab.gouv.fr/pseudonymisation/en-pratique/#quelles-ressources-disponibles-pour-pseudonymiser
 
 ## En anglais
 
