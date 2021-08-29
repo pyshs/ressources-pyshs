@@ -22,6 +22,7 @@
 - Différentes stratégies de scrapping : https://scrapingant.com/blog/scrape-dynamic-website-with-python
 - Une bibliothèque de codage quali : https://github.com/ccbogel/QualCoder
 - Cheatsheets pour Matplotlib https://github.com/matplotlib/cheatsheets
+- Bibliothèque pyPDF2 pour manipuler des pdf https://realpython.com/creating-modifying-pdf/
 
 ## Autre 
 
