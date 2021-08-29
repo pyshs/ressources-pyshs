@@ -12,6 +12,7 @@
 
 - Des cours généraux sur l'informatique sont conçus et développés par le collectif *Software Carpentry* et disponibles sur leur site https://software-carpentry.org/lessons/. En plus d'une introduction à Python, vous trouverez par exemple un cours d'utilisation du terminal Unix.
 - Chaque année, la conférence internationale *SciPy* rend disponible ses conférences et tutoriaux en ligne. Vous pourrez donc suivre les tutoriaux donnés par des membres de la communauté sur *Youtube* avec une recherche sur le mot-clé « scipy2019 ».
+- Une introduction à Python sur le site *Programming Historian* https://programminghistorian.org/en/lessons/introduction-and-installation
 - Vous trouverez des cours plus avancés sur le site Real Python https://realpython.com/.
 - Une présentation plus avancée de la programmation Python pour la science des données et le script scientifique https://jakevdp.github.io/PythonDataScienceHandbook/.
 - Le Blog de Jake Van der Plas http://jakevdp.github.io/ est intéressant à regarder pour apprendre des tours de main, en particulier sur la customisation de légende.
