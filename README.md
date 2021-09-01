@@ -30,3 +30,4 @@
 - les usages du Notebook sur Github https://blog.jetbrains.com/datalore/2020/12/17/we-downloaded-10-000-000-jupyter-notebooks-from-github-this-is-what-we-learned/
 - le scrapping avec Python https://www.scrapingbee.com/blog/crawling-python/
 - Structural Equation Modeling https://medium.com/@nimmimohandas1985/structural-equation-modelling-with-semopy-e6759f3f614b
+- Des exemples d'anti-patterns (ce qu'il ne faudrait pas faire) https://towardsdatascience.com/18-common-python-anti-patterns-i-wish-i-had-known-before-44d983805f0f
