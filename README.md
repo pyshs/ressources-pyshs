@@ -31,3 +31,7 @@
 - le scrapping avec Python https://www.scrapingbee.com/blog/crawling-python/
 - Structural Equation Modeling https://medium.com/@nimmimohandas1985/structural-equation-modelling-with-semopy-e6759f3f614b
 - Des exemples d'anti-patterns (ce qu'il ne faudrait pas faire) https://towardsdatascience.com/18-common-python-anti-patterns-i-wish-i-had-known-before-44d983805f0f
+
+## Python vs. R (juste pour garder une trace des arguments)
+
+- https://moncoachdata.com/blog/duel-python-vs-r/
