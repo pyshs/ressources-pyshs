@@ -37,3 +37,4 @@
 - https://moncoachdata.com/blog/duel-python-vs-r/
 - https://www.byteacademy.co/blog/python-vs-r
 - https://www.ibm.com/cloud/blog/python-vs-r
+- https://lmi.cnrs.fr/r/about-the-class.html
