@@ -23,6 +23,7 @@
 - Une bibliothèque de codage quali : https://github.com/ccbogel/QualCoder
 - Cheatsheets pour Matplotlib https://github.com/matplotlib/cheatsheets
 - Bibliothèque pyPDF2 pour manipuler des pdf https://realpython.com/creating-modifying-pdf/
+- Gallerie de visualisations : https://www.python-graph-gallery.com/
 
 ## Autre 
 
