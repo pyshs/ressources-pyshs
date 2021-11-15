@@ -25,6 +25,7 @@
 - Bibliothèque pyPDF2 pour manipuler des pdf https://realpython.com/creating-modifying-pdf/
 - Gallerie de visualisations : https://www.python-graph-gallery.com/
 - Cours construit par Mathieu de Datactivist pour un bootcamp à sciencespo : https://github.com/datactivist/scpo-data-science-bootcamp
+- Preparatory Course at Paris Science et Lettre : https://data-psl.github.io/preparatory-week/
 
 ## Autre 
 
