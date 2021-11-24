@@ -37,6 +37,7 @@
 
 ## Python vs. R (juste pour garder une trace des arguments)
 
+- https://bioinfo-fr.net/choisir-entre-r-et-python-en-bioinformatique-regards-croises-entre-collegues-enseignants-chercheurs en bioinfo, réflexion +++
 - https://moncoachdata.com/blog/duel-python-vs-r/
 - https://www.byteacademy.co/blog/python-vs-r
 - https://www.ibm.com/cloud/blog/python-vs-r
