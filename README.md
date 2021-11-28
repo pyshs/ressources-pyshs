@@ -22,7 +22,7 @@
 - Différentes stratégies de scrapping : https://scrapingant.com/blog/scrape-dynamic-website-with-python
 - Une bibliothèque de codage quali : https://github.com/ccbogel/QualCoder
 - Cheatsheets pour Matplotlib https://github.com/matplotlib/cheatsheets
-- Bibliothèque pyPDF2 pour manipuler des pdf https://realpython.com/creating-modifying-pdf/
+- Bibliothèque pour manipuler les PDF : https://github.com/pymupdf/PyMuPDF
 - Gallerie de visualisations : https://www.python-graph-gallery.com/
 - Cours construit par Mathieu de Datactivist pour un bootcamp à sciencespo : https://github.com/datactivist/scpo-data-science-bootcamp
 - Preparatory Course at Paris Science et Lettre : https://data-psl.github.io/preparatory-week/
@@ -35,6 +35,7 @@
 - Structural Equation Modeling https://medium.com/@nimmimohandas1985/structural-equation-modelling-with-semopy-e6759f3f614b
 - Des exemples d'anti-patterns (ce qu'il ne faudrait pas faire) https://towardsdatascience.com/18-common-python-anti-patterns-i-wish-i-had-known-before-44d983805f0f
 - Réflexion sur l'appelation Jupyter Notebook en français https://www.arthurperret.fr/du-notebook-au-bloc-code.html
+- OCR avec Tesseract : https://nanonets.com/blog/ocr-with-tesseract/
 
 ## Python vs. R (juste pour garder une trace des arguments)
 
