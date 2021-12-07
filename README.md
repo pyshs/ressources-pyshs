@@ -37,6 +37,10 @@
 - Réflexion sur l'appelation Jupyter Notebook en français https://www.arthurperret.fr/du-notebook-au-bloc-code.html
 - OCR avec Tesseract : https://nanonets.com/blog/ocr-with-tesseract/
 
+## Outils utiles
+
+- Intégrer des cartes dynamiques dans un Notebook Jupyter : https://github.com/jupyter-widgets/ipyleaflet
+
 ## Python vs. R (juste pour garder une trace des arguments)
 
 - https://bioinfo-fr.net/choisir-entre-r-et-python-en-bioinformatique-regards-croises-entre-collegues-enseignants-chercheurs en bioinfo, réflexion +++
