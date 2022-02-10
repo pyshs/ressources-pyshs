@@ -27,6 +27,7 @@
 - Cours construit par Mathieu de Datactivist pour un bootcamp à sciencespo : https://github.com/datactivist/scpo-data-science-bootcamp
 - Preparatory Course at Paris Science et Lettre : https://data-psl.github.io/preparatory-week/
 - Comprendre les opérations sur les tableaux Pandas étape par étape : https://pandastutor.com/
+- Des bonnes pratiques pour organiser du code sur du long terme : https://goodresearch.dev/
 
 ## Autre 
 
