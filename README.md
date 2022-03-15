@@ -29,6 +29,7 @@
 - Comprendre les opérations sur les tableaux Pandas étape par étape : https://pandastutor.com/
 - Des bonnes pratiques pour organiser du code sur du long terme : https://goodresearch.dev/
 - Parser des zones de texte/images dans des zones : https://github.com/Layout-Parser/layout-parser
+- Rubrix est un framework pour l'annotation NLP (par ex. avec couplage d'heuristiques skweak): https://rubrix.readthedocs.io/en/master/index.html#
 
 
 ## Autre 
