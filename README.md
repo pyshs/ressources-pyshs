@@ -42,7 +42,7 @@
 - Réflexion sur l'appelation Jupyter Notebook en français https://www.arthurperret.fr/du-notebook-au-bloc-code.html
 - OCR avec Tesseract : https://nanonets.com/blog/ocr-with-tesseract/
 - Analyse de conversations : https://convokit.cornell.edu/
-- Parole vers texte en Python : https://towardsdatascience.com/easy-speech-to-text-with-python-3df0d973b426
+- Parole vers texte en Python : https://towardsdatascience.com/easy-speech-to-text-with-python-3df0d973b426 et la bibliothèque https://pypi.org/project/SpeechRecognition/
 
 ## Outils utiles
 
