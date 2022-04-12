@@ -31,6 +31,7 @@
 - Parser des zones de texte/images dans des zones : https://github.com/Layout-Parser/layout-parser
 - Rubrix est un framework pour l'annotation NLP (par ex. avec couplage d'heuristiques skweak): https://rubrix.readthedocs.io/en/master/index.html#
 - Un exemple de Name Entity Recognition (NER) avec Spacy : https://www.analyticsvidhya.com/blog/2021/06/nlp-application-named-entity-recognition-ner-in-python-with-spacy/
+- Channel Youtube Python Tutorials for Digital Humanities https://www.youtube.com/channel/UC5vr5PwcXiKX_-6NTteAlXw
 
 ## Autre 
 
