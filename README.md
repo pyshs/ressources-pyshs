@@ -8,7 +8,7 @@
 - Des articles en français à destination des historiens sont développés sur le site *Programming Historian* https://programminghistorian.org/fr/. Par exemple, un article propose de rentrer en profondeur dans la manipulation de chaînes de caractères.
 - Explication de la reconnaissance d'entités nommées et outils dans le cadre de la pseudonimisation : https://guides.etalab.gouv.fr/pseudonymisation/en-pratique/#quelles-ressources-disponibles-pour-pseudonymiser
 - Tutorial aux Tuto-Mate-SHS de Clément Planck sur la bibliothèque Spacy de traitement des textes : https://mate-shs.cnrs.fr/actions/tutomate/tuto44_python_spacy_clement_plancq/
-- Une présentation accessible et illustrée de ce que sont les Papiers Exécutables https://gitlab.huma-num.fr/mnauge/outiller-la-publication-urfist-2022/-/blob/main/diaporama/executablePaper_articleOutillee.md
+- Une présentation accessible et illustrée de Michael Nauge de ce que sont les Papiers Exécutables https://gitlab.huma-num.fr/mnauge/outiller-la-publication-urfist-2022/-/blob/main/diaporama/executablePaper_articleOutillee.md
 
 ## En anglais
 
