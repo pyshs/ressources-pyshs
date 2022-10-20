@@ -9,6 +9,7 @@
 - Explication de la reconnaissance d'entités nommées et outils dans le cadre de la pseudonimisation : https://guides.etalab.gouv.fr/pseudonymisation/en-pratique/#quelles-ressources-disponibles-pour-pseudonymiser
 - Tutorial aux Tuto-Mate-SHS de Clément Planck sur la bibliothèque Spacy de traitement des textes : https://mate-shs.cnrs.fr/actions/tutomate/tuto44_python_spacy_clement_plancq/
 - Une présentation accessible et illustrée de Michael Nauge de ce que sont les Papiers Exécutables https://gitlab.huma-num.fr/mnauge/outiller-la-publication-urfist-2022/-/blob/main/diaporama/executablePaper_articleOutillee.md
+- Carnet d'Alexander Delaporte, ingénieur d'études au Centre de recherches linguistiques sur l'Asie Orientale (R & Python) https://tekipaki.hypotheses.org/
 
 ## En anglais
 
