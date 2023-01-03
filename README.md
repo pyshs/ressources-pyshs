@@ -14,6 +14,7 @@
 ## En anglais
 
 - Excellent cours complet de l'initiation au traitement plus avancé de Mélanie Walsh https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html
+- Cours EdX Python for research : https://www.edx.org/course/using-python-for-research#!
 - Introduction aux Notebook Jupyter & Python : https://github.com/berniehogan/IntroducingPython
 - Des cours généraux sur l'informatique sont conçus et développés par le collectif *Software Carpentry* et disponibles sur leur site https://software-carpentry.org/lessons/. En plus d'une introduction à Python, vous trouverez par exemple un cours d'utilisation du terminal Unix.
 - Chaque année, la conférence internationale *SciPy* rend disponible ses conférences et tutoriaux en ligne. Vous pourrez donc suivre les tutoriaux donnés par des membres de la communauté sur *Youtube* avec une recherche sur le mot-clé « scipy2019 ».
