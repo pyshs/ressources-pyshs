@@ -10,6 +10,7 @@
 - Tutorial aux Tuto-Mate-SHS de Clément Planck sur la bibliothèque Spacy de traitement des textes : https://mate-shs.cnrs.fr/actions/tutomate/tuto44_python_spacy_clement_plancq/
 - Une présentation accessible et illustrée de Michael Nauge de ce que sont les Papiers Exécutables https://gitlab.huma-num.fr/mnauge/outiller-la-publication-urfist-2022/-/blob/main/diaporama/executablePaper_articleOutillee.md
 - Carnet d'Alexander Delaporte, ingénieur d'études au Centre de recherches linguistiques sur l'Asie Orientale (R & Python) https://tekipaki.hypotheses.org/
+- *Python pour les utilisateurs de R* de Matthieu Viry https://mthh.github.io/RUSS_190404/#/
 
 ## En anglais
 
@@ -64,3 +65,4 @@
 - https://www.byteacademy.co/blog/python-vs-r
 - https://www.ibm.com/cloud/blog/python-vs-r
 - https://lmi.cnrs.fr/r/about-the-class.html
+- https://mthh.github.io/RUSS_190404/RetourDiscussion.slides.html#/1
