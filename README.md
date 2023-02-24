@@ -40,6 +40,7 @@
 - Un exemple de Name Entity Recognition (NER) avec Spacy : https://www.analyticsvidhya.com/blog/2021/06/nlp-application-named-entity-recognition-ner-in-python-with-spacy/
 - Channel Youtube Python Tutorials for Digital Humanities https://www.youtube.com/channel/UC5vr5PwcXiKX_-6NTteAlXw
 - Livre (papier et numérique) sur la visualisation scientifique avec Matplotlib https://www.labri.fr/perso/nrougier/scientific-visualization.html
+- Des exemples de notebooks pour les Digital Humanities : https://github.com/quinnanya/dh-jupyter
 
 ## Autre 
 
