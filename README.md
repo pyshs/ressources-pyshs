@@ -9,6 +9,7 @@
 - Mentionnons d'abord le tutorial de la fondation Python : https://docs.python.org/fr/3/tutorial/index.html.
 - Les cours de programmation d'Open Classrooms peuvent permettre de compléter les notions vues dans ce manuel avec une présentation plus formelle : https://openclassrooms.com/.
 - Des articles en français à destination des sciences sociales sont développés sur le site *Programming Historian* https://programminghistorian.org/fr/. Par exemple, un article propose de rentrer en profondeur dans la manipulation de chaînes de caractères, ou encore une présentation des Notebooks Jupyter https://programminghistorian.org/fr/lecons/introduction-aux-carnets-jupyter-notebooks
+- Des exemples de Notebooks utilisant Python pour les SHS développés avec Huma-Num : https://gitlab.huma-num.fr/io
 - *Python pour les utilisateurs de R* de Matthieu Viry https://mthh.github.io/RUSS_190404/#/
 - Tutorial aux Tuto-Mate-SHS de Clément Planck sur la bibliothèque Spacy de traitement des textes : https://mate-shs.cnrs.fr/actions/tutomate/tuto44_python_spacy_clement_plancq/
 - Une présentation accessible et illustrée de Michael Nauge de ce que sont les Papiers Exécutables https://gitlab.huma-num.fr/mnauge/outiller-la-publication-urfist-2022/-/blob/main/diaporama/executablePaper_articleOutillee.md
@@ -22,6 +23,7 @@
 - Excellent cours complet de l'initiation au traitement plus avancé de Mélanie Walsh https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html
 - Cours EdX Python for research : https://www.edx.org/course/using-python-for-research#!
 - Introduction aux Notebook Jupyter & Python : https://github.com/berniehogan/IntroducingPython
+- Des exemples de Notebooks pour les Humanités Numériques : https://github.com/quinnanya/dh-jupyter
 - Chaque année, la conférence internationale *SciPy* rend disponible ses conférences et tutoriaux en ligne. Vous pourrez donc suivre les tutoriaux donnés par des membres de la communauté sur *Youtube* avec une recherche sur le mot-clé « scipy2019 ».
 - Vous trouverez des cours plus avancés sur le site Real Python https://realpython.com/.
 - Le Blog de Jake Van der Plas http://jakevdp.github.io/ est intéressant à regarder pour apprendre des tours de main, en particulier sur la customisation de légende.
