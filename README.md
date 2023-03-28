@@ -60,6 +60,10 @@
 
 - Intégrer des cartes dynamiques dans un Notebook Jupyter : https://github.com/jupyter-widgets/ipyleaflet
 
+## Veille de bibliothèques :
+
+- Pour des statistiques textuelles descriptives utilisant SpaCy https://github.com/HLasse/TextDescriptives
+
 ## Python vs. R (juste pour garder une trace des arguments)
 
 - https://bioinfo-fr.net/choisir-entre-r-et-python-en-bioinformatique-regards-croises-entre-collegues-enseignants-chercheurs en bioinfo, réflexion +++
