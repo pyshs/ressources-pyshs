@@ -1,5 +1,9 @@
 # Ressources utiles à la programmation Python en SHS
 
+## Méta-ressources
+
+- Une liste pour les Computational social science : https://github.com/gesiscss/awesome-computational-social-science
+
 ## En français
 
 - Mentionnons d'abord le tutorial de la fondation Python : https://docs.python.org/fr/3/tutorial/index.html.
@@ -41,6 +45,8 @@
 - Channel Youtube Python Tutorials for Digital Humanities https://www.youtube.com/channel/UC5vr5PwcXiKX_-6NTteAlXw
 - Livre (papier et numérique) sur la visualisation scientifique avec Matplotlib https://www.labri.fr/perso/nrougier/scientific-visualization.html
 - Des exemples de notebooks pour les Digital Humanities : https://github.com/quinnanya/dh-jupyter
+
+
 
 ## Autre 
 
