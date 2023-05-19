@@ -47,6 +47,9 @@
 - Des exemples de notebooks pour les Digital Humanities : https://github.com/quinnanya/dh-jupyter
 - Reproducible Data Science with Python : https://valdanchev.github.io/reproducible-data-science-python/intro.html
 
+## Bibliothèques intéressantes
+- Perdido : librairie Python pour le geoparsing et le geocoding de textes en français https://hal.science/hal-03928358
+
 
 ## Autre 
 
