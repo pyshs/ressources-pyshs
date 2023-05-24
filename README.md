@@ -75,6 +75,7 @@
 
 ## Python vs. R (juste pour garder une trace des arguments)
 
+- Très bonne présentation Matthieu Viry sur les propriétés de Python & R https://mthh.github.io/presentation-python-r-shs/#/python-r
 - https://bioinfo-fr.net/choisir-entre-r-et-python-en-bioinformatique-regards-croises-entre-collegues-enseignants-chercheurs en bioinfo, réflexion +++
 - https://moncoachdata.com/blog/duel-python-vs-r/
 - https://www.byteacademy.co/blog/python-vs-r
