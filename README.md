@@ -15,6 +15,7 @@
 - Une présentation accessible et illustrée de Michael Nauge de ce que sont les Papiers Exécutables https://gitlab.huma-num.fr/mnauge/outiller-la-publication-urfist-2022/-/blob/main/diaporama/executablePaper_articleOutillee.md
 - Carnet d'Alexander Delaporte, ingénieur d'études au Centre de recherches linguistiques sur l'Asie Orientale (R & Python) https://tekipaki.hypotheses.org/
 - Explication de la reconnaissance d'entités nommées et outils dans le cadre de la pseudonimisation : https://guides.etalab.gouv.fr/pseudonymisation/en-pratique/#quelles-ressources-disponibles-pour-pseudonymiser
+- Reconnaissance d'entités nommées avec Perdido https://gitlab.liris.cnrs.fr/lmoncla/tutoriel-anf-tdm-2022-python-geoparsing
 
 
 ## En anglais
