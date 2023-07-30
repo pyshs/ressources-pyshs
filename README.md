@@ -65,6 +65,7 @@
 - Analyse de conversations : https://convokit.cornell.edu/
 - Parole vers texte en Python : https://towardsdatascience.com/easy-speech-to-text-with-python-3df0d973b426 et la bibliothèque https://pypi.org/project/SpeechRecognition/
 - Comment faire sa première pull-request : https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/
+- Scientométrie : https://direct.mit.edu/qss/article/doi/10.1162/qss_a_00260/115875
 
 ## Outils utiles
 
