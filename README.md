@@ -47,6 +47,7 @@
 - Livre (papier et numérique) sur la visualisation scientifique avec Matplotlib https://www.labri.fr/perso/nrougier/scientific-visualization.html
 - Des exemples de notebooks pour les Digital Humanities : https://github.com/quinnanya/dh-jupyter
 - Reproducible Data Science with Python : https://valdanchev.github.io/reproducible-data-science-python/intro.html
+- Tutorial d'apprentissage automatique pour les donnes textuelles en sociologie : https://www.css.cnrs.fr/the-augmented-social-scientist-tutorial-at-ic2s2/
 
 ## Bibliothèques intéressantes
 - Perdido : librairie Python pour le geoparsing et le geocoding de textes en français https://hal.science/hal-03928358
