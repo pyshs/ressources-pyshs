@@ -16,6 +16,7 @@
 - Carnet d'Alexander Delaporte, ingénieur d'études au Centre de recherches linguistiques sur l'Asie Orientale (R & Python) https://tekipaki.hypotheses.org/
 - Explication de la reconnaissance d'entités nommées et outils dans le cadre de la pseudonimisation : https://guides.etalab.gouv.fr/pseudonymisation/en-pratique/#quelles-ressources-disponibles-pour-pseudonymiser
 - Reconnaissance d'entités nommées avec Perdido https://gitlab.liris.cnrs.fr/lmoncla/tutoriel-anf-tdm-2022-python-geoparsing
+- Mise en production du code (cours ENSAE) : https://ensae-reproductibilite.github.io/website/
 
 
 ## En anglais
