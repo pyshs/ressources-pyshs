@@ -73,6 +73,7 @@
 ## Outils utiles
 
 - Intégrer des cartes dynamiques dans un Notebook Jupyter : https://github.com/jupyter-widgets/ipyleaflet
+- Package Augmented Social Scientist : https://pypi.org/project/AugmentedSocialScientist/
 
 ## Veille de bibliothèques :
 
