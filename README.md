@@ -21,6 +21,7 @@
 
 ## En anglais
 
+- PEP8 Style Guide for Python Code https://peps.python.org/pep-0008/
 - Des cours généraux sur l'informatique sont conçus et développés par le collectif *Software Carpentry* et disponibles sur leur site https://software-carpentry.org/lessons/. En plus d'une introduction à Python, vous trouverez par exemple un cours d'utilisation du terminal Unix.
 - Excellent cours complet de l'initiation au traitement plus avancé de Mélanie Walsh https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html
 - Cours EdX Python for research : https://www.edx.org/course/using-python-for-research#!
