@@ -51,6 +51,8 @@
 - Reproducible Data Science with Python : https://valdanchev.github.io/reproducible-data-science-python/intro.html
 - Tutorial d'apprentissage automatique pour les donnes textuelles en sociologie : https://www.css.cnrs.fr/the-augmented-social-scientist-tutorial-at-ic2s2/
 - Passer de R à Python : https://www.rebeccabarter.com/blog/2023-09-11-from_r_to_python
+- Parallel Computing with Python https://pnavaro.github.io/big-data/intro.html
+
 
 ## Bibliothèques intéressantes
 - Perdido : librairie Python pour le geoparsing et le geocoding de textes en français https://hal.science/hal-03928358
