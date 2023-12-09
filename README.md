@@ -52,7 +52,7 @@
 - Tutorial d'apprentissage automatique pour les donnes textuelles en sociologie : https://www.css.cnrs.fr/the-augmented-social-scientist-tutorial-at-ic2s2/
 - Passer de R à Python : https://www.rebeccabarter.com/blog/2023-09-11-from_r_to_python
 - Parallel Computing with Python https://pnavaro.github.io/big-data/intro.html
-
+- Tutorial de la classification hiérarchique ascendante : https://joernhees.de/blog/2015/08/26/scipy-hierarchical-clustering-and-dendrogram-tutorial/
 
 ## Bibliothèques intéressantes
 - Perdido : librairie Python pour le geoparsing et le geocoding de textes en français https://hal.science/hal-03928358
