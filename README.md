@@ -58,6 +58,10 @@
 - Perdido : librairie Python pour le geoparsing et le geocoding de textes en français https://hal.science/hal-03928358
 - SkRub (ex. dirty_cat) pour gérer les variations de morphologie des entrées textuelles : https://github.com/skrub-data/skrub/
 
+## Show case
+
+- interface tk + bs4 pour transformer des fichiers europresse > iramuteq : https://www.ariege360.fr/script-europresse-iramuteq-europresse/
+
 ## Autre 
 
 - l'histoire de Python https://inference-review.com/article/the-origins-of-python
