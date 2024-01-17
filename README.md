@@ -56,7 +56,8 @@
 
 ## Bibliothèques intéressantes
 - Perdido : librairie Python pour le geoparsing et le geocoding de textes en français https://hal.science/hal-03928358
-- SkRub (ex. dirty_cat) pour gérer les variations de morphologie des entrées textuelles : https://github.com/skrub-data/skrub/
+- SkRub (ex. dirty_cat) pour gérer les variations de morphologie des entrées textuelles : https://github.com/skrub-data/skrub
+- oTree pour faire des expériences en sciences sociales : https://otree.readthedocs.io/en/latest/#
 
 ## Show case
 
