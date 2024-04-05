@@ -96,3 +96,4 @@
 - https://www.ibm.com/cloud/blog/python-vs-r
 - https://lmi.cnrs.fr/r/about-the-class.html
 - https://mthh.github.io/RUSS_190404/RetourDiscussion.slides.html#/1
+- https://www.datacamp.com/blog/python-vs-r-for-data-science-whats-the-difference
