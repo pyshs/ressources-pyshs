@@ -21,7 +21,6 @@
 
 ## En anglais
 
-- PEP8 Style Guide for Python Code https://peps.python.org/pep-0008/
 - Des cours généraux sur l'informatique sont conçus et développés par le collectif *Software Carpentry* et disponibles sur leur site https://software-carpentry.org/lessons/. En plus d'une introduction à Python, vous trouverez par exemple un cours d'utilisation du terminal Unix.
 - Excellent cours complet de l'initiation au traitement plus avancé de Mélanie Walsh https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html
 - Cours EdX Python for research : https://www.edx.org/course/using-python-for-research#!
@@ -53,6 +52,7 @@
 - Passer de R à Python : https://www.rebeccabarter.com/blog/2023-09-11-from_r_to_python
 - Parallel Computing with Python https://pnavaro.github.io/big-data/intro.html
 - Tutorial de la classification hiérarchique ascendante : https://joernhees.de/blog/2015/08/26/scipy-hierarchical-clustering-and-dendrogram-tutorial/
+- Coding for Economists : https://github.com/aeturrell/coding-for-economists
 
 ## Bibliothèques intéressantes
 - Perdido : librairie Python pour le geoparsing et le geocoding de textes en français https://hal.science/hal-03928358
@@ -77,6 +77,7 @@
 - Parole vers texte en Python : https://towardsdatascience.com/easy-speech-to-text-with-python-3df0d973b426 et la bibliothèque https://pypi.org/project/SpeechRecognition/
 - Comment faire sa première pull-request : https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/
 - Scientométrie : https://direct.mit.edu/qss/article/doi/10.1162/qss_a_00260/115875
+- PEP8 Style Guide for Python Code https://peps.python.org/pep-0008/
 
 ## Outils utiles
 
