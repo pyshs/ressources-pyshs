@@ -53,6 +53,7 @@
 - Parallel Computing with Python https://pnavaro.github.io/big-data/intro.html
 - Tutorial de la classification hiérarchique ascendante : https://joernhees.de/blog/2015/08/26/scipy-hierarchical-clustering-and-dendrogram-tutorial/
 - Coding for Economists : https://github.com/aeturrell/coding-for-economists
+- Tutorial image analysis https://distantviewing.org/dvscripts/tutorial-digital-images.html
 
 ## Bibliothèques intéressantes
 - Perdido : librairie Python pour le geoparsing et le geocoding de textes en français https://hal.science/hal-03928358
